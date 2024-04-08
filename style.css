@@ -1,0 +1,143 @@
+.navbar {
+  position: sticky;
+  top: 0;
+}
+
+.loginbtn {
+  background-color: #7c0b0b;
+  color: white;
+  margin-left: 90px;
+}
+.hero img {
+  width: 100%;
+}
+.hero {
+  z-index: 3000;
+  background-image: url(/img/Rectangle\ 1.png);
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero button {
+  background-color: #fff;
+  border: none;
+  color: #7c0b0b;
+  font-weight: 500;
+  border-radius: 10px;
+  height: 40px;
+  width: 147px;
+  gap: 10px;
+}
+#navbarNav a:hover {
+  color: #7c0b0b;
+}
+.sec-1 img {
+  width: 90%;
+  height: 651px;
+  left: 782px;
+  border-radius: 50px;
+}
+
+#contact button {
+  background: #7c0b0b;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+form {
+  width: 90%;
+}
+.form-sec {
+  padding: 0px;
+  border: #7c0b0b;
+}
+form h2,
+p {
+  color: #7c0b0b;
+}
+form h2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+form p {
+  font-size: 9px;
+  font-weight: 200;
+}
+.flexme {
+  border: 1px solid #7c0b0b;
+  padding: 20px 20px;
+}
+.flexme p {
+  width: 250px;
+  margin: auto;
+}
+.members{
+   padding: 20px 20px;
+  background-color: #7c0b0b;
+  border-radius: 30px;
+  width: 267px;
+  height: 198px;
+  border: 1px;
+  left: 100px;
+  top: 2692px;
+
+}
+.Testimonials{
+    background-color: #7c0b0b;
+  border-radius: 30px;
+  width: 366px;
+  height: 328px;
+  top: 355px;
+  left: 100px;
+  border: 1px;
+  
+}
+.img-name{
+  display: flex-end;
+ 
+}
+.footer{
+ width: 100%;
+ height: 407px; 
+ top: 4365px;
+ background-color: #7c0b0b;
+}
+.footer-btn{
+  width: 695px;
+  height: 117px;
+  background-color: white;
+  top: 4474px;
+  left: 100px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 395px;
+  margin-top: 100px;
+ 
+
+  /* .footer-btn img h6{
+    width: 100px;
+    height: 93px;
+    top: 4485px;
+    left: 151px;
+  } */
+
+
+
+}
+.footer-btn button{
+  width: 144.32px;
+  height: 40px;
+  top: 4511px;
+  left: 593.72px;
+  border-radius: 10px;
+  padding: 10px;
+  gap: 10px;
+  background-color: #7c0b0b;
+  border: none;
+}
